@@ -40,3 +40,4 @@ terraform apply
 
 - Petar Popović
 - Luka Prlinčević
+- Aleksa Dejanović
